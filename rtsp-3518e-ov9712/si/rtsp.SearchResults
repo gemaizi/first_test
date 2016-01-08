@@ -1,0 +1,12 @@
+---- main Matches (11 in 6 files) ----
+Echo_select_server.c (c:\users\mgl\desktop\rtsp-3518e-ov9712\mavlink_server):int main(int argc, char *argv[])
+Hi_comm_venc.h (c:\users\mgl\desktop\rtsp-3518e-ov9712\include):/*main stream*/
+Hi_comm_venc.h (c:\users\mgl\desktop\rtsp-3518e-ov9712\include):    HI_S32  bMainStream;         /* surpport main stream only for hi3516, bMainStream = HI_TRUE */
+Hi_comm_venc.h (c:\users\mgl\desktop\rtsp-3518e-ov9712\include):    HI_BOOL bMainStream;         /*main stream or minor stream types?*/
+Hi_comm_venc.h (c:\users\mgl\desktop\rtsp-3518e-ov9712\include):    HI_S32  bMainStream;         /* surpport main stream only for hi3516, bMainStream = HI_TRUE */
+Hi_comm_vi.h (c:\users\mgl\desktop\rtsp-3518e-ov9712\include):/*get the subchn index by main chn */
+Main.c (c:\users\mgl\desktop\rtsp-3518e-ov9712):int main(void)
+Sample_comm_venc.c (c:\users\mgl\desktop\rtsp-3518e-ov9712):            stH264Attr.bMainStream = HI_TRUE; /* surpport main stream only for hi3516, bMainStream = HI_TRUE */
+Sample_comm_venc.c (c:\users\mgl\desktop\rtsp-3518e-ov9712):            stMjpegAttr.bMainStream = HI_TRUE;  /*main stream or minor stream types?*/
+Sample_venc.c (c:\users\mgl\desktop\rtsp-3518e-ov9712):* function    : main()
+Sample_venc.c (c:\users\mgl\desktop\rtsp-3518e-ov9712):// int main(int argc, char *argv[])
