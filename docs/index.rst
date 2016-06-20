@@ -1,18 +1,17 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
+.. rtk documentation master file, created by
+   sphinx-quickstart on Mon Jun 20 15:12:16 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
-==================================================
+Welcome to rtk's documentation!
+===============================
 
-Contents:
+Guide:
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
-   *
+   getting_started.rst
 
 
 
