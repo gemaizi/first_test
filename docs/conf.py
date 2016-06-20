@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# rtk documentation build configuration file, created by
-# sphinx-quickstart on Mon Jun 20 15:12:16 2016.
+# rtk-doc documentation build configuration file, created by
+# sphinx-quickstart on Mon Jun 20 22:42:41 2016.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'rtk'
+project = u'rtk-doc'
 copyright = u'2016, mgl'
 author = u'mgl'
 
@@ -133,7 +133,7 @@ html_theme = 'alabaster'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = u'rtk v0.0.1'
+# html_title = u'rtk-doc v0.0.1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -233,7 +233,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'rtkdoc'
+htmlhelp_basename = 'rtk-docdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -259,7 +259,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'rtk.tex', u'rtk Documentation',
+    (master_doc, 'rtk-doc.tex', u'rtk-doc Documentation',
      u'mgl', 'manual'),
 ]
 
@@ -295,7 +295,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'rtk', u'rtk Documentation',
+    (master_doc, 'rtk-doc', u'rtk-doc Documentation',
      [author], 1)
 ]
 
@@ -310,8 +310,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'rtk', u'rtk Documentation',
-     author, 'rtk', 'One line description of project.',
+    (master_doc, 'rtk-doc', u'rtk-doc Documentation',
+     author, 'rtk-doc', 'One line description of project.',
      'Miscellaneous'),
 ]
 
