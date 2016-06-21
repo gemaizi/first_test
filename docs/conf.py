@@ -49,6 +49,8 @@ extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.autosummary',
               'matplotlib.sphinxext.only_directives',
               'matplotlib.sphinxext.plot_directive',
+              'IPython.sphinxext.ipython_directive',
+              'IPython.sphinxext.ipython_console_highlighting',
               'numpydoc', # used to parse numpy-style docstrings for autodoc
               ]
 
