@@ -1,2 +1,2 @@
-matplotlib
-matplotlib.sphinxext.only_directives
+matplotlib==1.5.0
+
