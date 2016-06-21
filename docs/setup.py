@@ -1,0 +1,1 @@
+pip install matplotlib.sphinxext.only_directives
