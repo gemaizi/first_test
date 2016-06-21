@@ -12,7 +12,9 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *
+   getting_started.rst
+   installation.rst
+   authors.rst
 
 
 
