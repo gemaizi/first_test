@@ -1,6 +1,6 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Maiguilin (maiguilin.hit@gmail.com)
+
 
